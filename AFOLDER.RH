@@ -1,0 +1,10 @@
+#define IDM_DESKFOLDER		29999
+#define IDM_AFOLDER			30000
+
+#define IDM_ARRANGE			30001
+#define IDM_EXIT			30002
+#define IDM_SETTINGS		0x3003
+
+
+#define IDM_WPSARRANGE		0x135
+#define IDM_WPSSETTINGS		0x70

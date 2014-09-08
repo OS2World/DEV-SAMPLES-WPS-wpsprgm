@@ -1,0 +1,15 @@
+#include "afolder.rh"
+
+
+ACCELTABLE IDM_AFOLDER
+{
+	VK_F12,         IDM_ARRANGE,       VIRTUALKEY
+	VK_F3,          IDM_EXIT,          VIRTUALKEY
+	VK_ESC,		    IDM_EXIT,          VIRTUALKEY
+	VK_F2, 			IDM_SETTINGS,      VIRTUALKEY
+}
+
+ACCELTABLE IDM_DESKFOLDER
+{
+	VK_F2, 			IDM_SETTINGS,      VIRTUALKEY
+}
